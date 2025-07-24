@@ -1,11 +1,11 @@
 ## Studio VO!D
 > From `void` to `!`
 
-### TEAM
-✨ @hoony6134 - PM(Lead), Full Stack Dev  
-👨🏻‍💻 @rhseungg - Full Stack Dev
-🍀 @Yeeun050211 - FE Dev
-💡 @KangGio - Designer
+### Our TEAM 👥
+✨ [@hoony6134](https://github.com/hoony6134) - PM(Lead), Full Stack Dev  
+👨🏻‍💻 [@rhseungg](https://github.com/rhseungg) - Full Stack Dev  
+🍀 [@Yeeun050211](https://github.com/Yeeun050211) - FE Dev  
+💡 [@KangGio](https://github.com/KangGio) - Designer  
 
 <!--
 
